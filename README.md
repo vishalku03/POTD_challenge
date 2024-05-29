@@ -1,4 +1,4 @@
-hello
+
 day_1 -> the number of beautifull subsets (leetcode - 2597)
 
 day_2 -> Maximum score words formed by letters (leetcode - 1255)
