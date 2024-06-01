@@ -16,4 +16,6 @@ day_6 -> get equal substrings within budget- 1208
 
 day_7 -> Number of steps to reduce a number in binary representation to one (leetcode - 1404)
 
-day_8 -> Count that can form two arrays of equal XOR (leetcode - 1442)
+day_8 -> Count that can form two arrays of equal XOR (leetcode - 1442)\
+
+day_9 -> Single nuumber ||| (leetcode -  260)
