@@ -19,3 +19,5 @@ day_7 -> Number of steps to reduce a number in binary representation to one (lee
 day_8 -> Count that can form two arrays of equal XOR (leetcode - 1442)\
 
 day_9 -> Single nuumber ||| (leetcode -  260)
+
+day_10 -> store of a string (leetcode  - 3110)
