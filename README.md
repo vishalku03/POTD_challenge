@@ -23,3 +23,5 @@ day_9 -> Single nuumber ||| (leetcode -  260)
 day_10 -> store of a string (leetcode  - 3110)
 
 day_11 -> reverse string (leetcode - 344)
+
+day_12 - > Append characters to string to make subsequences (leetcode  -  2486)
