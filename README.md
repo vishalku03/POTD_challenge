@@ -27,3 +27,5 @@ day_11 -> reverse string (leetcode - 344)
 day_12 - > Append characters to string to make subsequences (leetcode  -  2486)
 
 day_13 -> longest palindrome (leetcode -  409)
+
+day_14 -> Find common characters (leetcode - 1002)
