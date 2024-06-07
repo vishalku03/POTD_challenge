@@ -33,3 +33,5 @@ day_14 -> Find common characters (leetcode - 1002)
 day_15 ->. Hand of straights ( leetcode  - 846)
 
          . max sum in the cinfiguration (gfg)
+
+day_16 -> Replace word (leetcode -  648)         
