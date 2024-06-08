@@ -40,4 +40,6 @@ day_16 -> Replace word (leetcode -  648)
 
 day_17 -> Continuous subarray sum (leetcode  -  523)         
 
+         2. index of extra element (gfg)
+
          
