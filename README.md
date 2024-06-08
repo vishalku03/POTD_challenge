@@ -37,3 +37,7 @@ day_15 ->. Hand of straights ( leetcode  - 846)
 day_16 -> Replace word (leetcode -  648)         
 
          2. Maximum occured integer (gfg)
+
+day_17 -> Continuous subarray sum (leetcode  -  523)         
+
+         
