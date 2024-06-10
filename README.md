@@ -42,4 +42,8 @@ day_17 -> Continuous subarray sum (leetcode  -  523)
 
          2. index of extra element (gfg)
 
+day_18 -> Subarray sums divisible by K (leetcode -  974)         
+
+         2.  Convert array into ZIG ZAG fashion (gfg)
+
          
