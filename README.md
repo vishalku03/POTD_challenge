@@ -46,4 +46,7 @@ day_18 -> Subarray sums divisible by K (leetcode -  974)
 
          2.  Convert array into ZIG ZAG fashion (gfg)
 
+day_19 -> Height checker (leetcode -  1051)
+
+         2. Nuts and Bolts (gfg)
          
