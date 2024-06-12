@@ -51,3 +51,5 @@ day_19 -> Height checker (leetcode -  1051)
          2. Nuts and Bolts (gfg)
          
 day_20 -> Relative sort array (leetcode 1122)
+
+         2. Maximum tip calculator (gfg)
