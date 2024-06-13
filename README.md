@@ -57,3 +57,5 @@ day_20 -> Relative sort array (leetcode 1122)
 day_21 -> Sort colors (leetcode  -  75)         
 
          2. Count containing number 4 (gfg)
+
+day_22 -> Minimum number of moves to seat  everyone (leetcode - 2037)         
