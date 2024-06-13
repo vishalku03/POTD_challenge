@@ -63,3 +63,5 @@ day_22 -> Minimum number of moves to seat  everyone (leetcode - 2037)
          2. Padvon sequence (gfg)
 
          3.  Maximum product  subarray (gfg)
+
+         4. bfs of graph (gfg)
