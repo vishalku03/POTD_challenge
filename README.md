@@ -65,3 +65,5 @@ day_22 -> Minimum number of moves to seat  everyone (leetcode - 2037)
          3.  Maximum product  subarray (gfg)
 
          4. bfs of graph (gfg)
+
+         5. Roate list (leetcode  -  61)
