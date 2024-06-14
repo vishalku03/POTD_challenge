@@ -67,3 +67,5 @@ day_22 -> Minimum number of moves to seat  everyone (leetcode - 2037)
          4. bfs of graph (gfg)
 
          5. Roate list (leetcode  -  61)
+
+         6. Combination sum || (leetcode - 40)
