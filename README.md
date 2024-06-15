@@ -71,3 +71,5 @@ day_22 -> Minimum number of moves to seat  everyone (leetcode - 2037)
          6. Combination sum || (leetcode - 40)
 
 day_23  -> Minumum number of increament to make an array unique (leetcode)         
+
+         2. Armstrong number (gfg)
