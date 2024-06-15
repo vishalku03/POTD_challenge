@@ -75,3 +75,5 @@ day_23  -> Minumum number of increament to make an array unique (leetcode)
          2. Armstrong number (gfg)
 
 day_24 -> IPO (leetcode - 501)         
+
+         2. Mobile numeric keyword (gfg)
