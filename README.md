@@ -79,3 +79,5 @@ day_24 -> IPO (leetcode - 501)
          2. Mobile numeric keyword (gfg)
 
 day_25 -> Patching array (leetcode -  330)         
+
+         2. prime sum with array (gfg)
