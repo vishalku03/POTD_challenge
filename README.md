@@ -85,3 +85,5 @@ day_25 -> Patching array (leetcode -  330)
 day_26 -> Check if two line segment is intersect (gfg)         
 
          2. Sum of the square of a number (gfg)
+
+day_26 -> Most profit assiging work (leetcode -  826)         
