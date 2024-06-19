@@ -87,3 +87,5 @@ day_26 -> Check if two line segment is intersect (gfg)
          2. Sum of the square of a number (gfg)
 
 day_26 -> Most profit assiging work (leetcode -  826)         
+
+         2. Number of circle in a rectangle (gfg)
