@@ -91,3 +91,5 @@ day_26 -> Most profit assiging work (leetcode -  826)
          2. Number of circle in a rectangle (gfg)
 
 day_27 -> Minimum number of days to make m boquets (leetcode - 1482)
+
+         2. Find the maximum volume of a cuboid (gfg)
