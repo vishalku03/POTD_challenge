@@ -95,4 +95,6 @@ day_28 -> Minimum number of days to make m boquets (leetcode - 1482)
          2. Find the maximum volume of a cuboid (gfg)
 
 day_29  -> Magnetic forces between two bolls (leetcode -  1552)
+
+         2.  Internal points inside traingle (gfg)
          
