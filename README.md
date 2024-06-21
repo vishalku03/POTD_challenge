@@ -97,4 +97,6 @@ day_28 -> Minimum number of days to make m boquets (leetcode - 1482)
 day_29  -> Magnetic forces between two bolls (leetcode -  1552)
 
          2.  Internal points inside traingle (gfg)
+
+day_30 -> Grumpy bookstore owner (leetcode - 1052)
          
