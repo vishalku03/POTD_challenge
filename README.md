@@ -103,4 +103,6 @@ day_30 -> Grumpy bookstore owner (leetcode - 1052)
         2. Comapre two fractions (gfg)
 
 day_31 -> Count numnber of nice subarray (1248)        
+
+        2.  Extract the number from string (gfg)
          
