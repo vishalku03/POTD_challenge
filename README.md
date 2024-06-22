@@ -101,4 +101,6 @@ day_29  -> Magnetic forces between two bolls (leetcode -  1552)
 day_30 -> Grumpy bookstore owner (leetcode - 1052)
 
         2. Comapre two fractions (gfg)
+
+day_31 -> Count numnber of nice subarray (1248)        
          
