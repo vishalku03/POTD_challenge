@@ -1,3 +1,5 @@
+#include<bits/stdc++.h>
+using namespace std;
 int longestSubSeg(vector<int> &arr, int n, int k)
 {
 
@@ -32,6 +34,16 @@ int longestSubSeg(vector<int> &arr, int n, int k)
      }
 
      return maxi;
+}
+
+int main()
+{
+     int n =  7;
+     int k = 2;
+     vector<int> arr= { 1,0,0,1,1,0};
+
+  int ans =    longestSubSeg(arr,n,k);
+     cout<< ans;
 }
 
 
